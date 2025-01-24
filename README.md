@@ -39,6 +39,15 @@ A stupid simple, no auth, no storage, text formatter. Format your text in variou
 
 ## Running with Docker
 
+You can either build locally or pull from Docker Hub:
+
+### Pull from Docker Hub
+```bash
+docker pull abite3/dumbtext:latest
+docker run -p 3000:3000 abite3/dumbtext
+```
+
+### Build Locally
 1. Build the Docker image:
    ```bash
    docker build -t dumbtext .
