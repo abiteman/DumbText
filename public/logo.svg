@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Paper background -->
+    <path 
+        d="M12 6C12 4.89543 12.8954 4 14 4H34C35.1046 4 36 4.89543 36 6V42C36 43.1046 35.1046 44 34 44H14C12.8954 44 12 43.1046 12 42V6Z" 
+        fill="#2563eb"
+    />
+    
+    <!-- Text squiggles -->
+    <g stroke="white" stroke-width="2.5" stroke-linecap="round">
+        <!-- First line (shorter) -->
+        <path d="M18 16C18 16 20 14 22 14C24 14 24 16 26 16C28 16 30 14 30 14" />
+        
+        <!-- Second line (longer) -->
+        <path d="M18 24C18 24 20 22 22 22C24 22 24 24 26 24C28 24 30 22 30 22" />
+        
+        <!-- Third line (medium) -->
+        <path d="M18 32C18 32 20 30 22 30C24 30 24 32 26 32C28 32 30 30 30 30" />
+    </g>
+</svg> 
