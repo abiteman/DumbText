@@ -146,23 +146,4 @@ button:hover {
     .action-buttons {
         flex-direction: column;
     }
-}
-
-.logo-container {
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
-.logo {
-    width: 64px;
-    height: 64px;
-    transition: transform 0.3s ease;
-}
-
-.logo:hover {
-    transform: scale(1.1);
-}
-
-.dark-mode .logo {
-    filter: brightness(1.2);
 } 
