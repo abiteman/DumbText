@@ -2,6 +2,9 @@
 
 A stupid simple, no auth, no storage, text formatter. Format your text in various cases with a clean, modern interface.
 
+![image](https://github.com/user-attachments/assets/8fb21ea0-929e-4c8a-b73e-2f1658b97657)
+
+
 ## Features
 
 - Multiple text case formatting options:
