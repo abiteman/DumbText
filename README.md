@@ -2,8 +2,7 @@
 
 A stupid simple, no auth, no storage, text formatter. Format your text in various cases with a clean, modern interface.
 
-![image](https://github.com/user-attachments/assets/7e9c5bbc-c5b7-4469-8b5d-7f162128b9ab)
-
+![image](https://github.com/user-attachments/assets/b1b047e0-0d94-4d0e-9702-4c3e4dd12c93)
 
 
 ## Features
